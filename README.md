@@ -7,8 +7,8 @@ it may trigger av if it does turn of antivirus download the winrar
 add acception to windows defender etc then extract
 install.
 if chrome gives virus error just use internet explorer chrome dont like custom .exe
-always give false positive
-
+always give false positive or download with git clone
+i will fix the av triger issue on next update
 works on windows 10/11
 run multiple connections just add new connection with different workername
 
