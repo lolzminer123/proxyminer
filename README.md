@@ -8,8 +8,11 @@ if it does just switch it of temporary then download again add exception for .ex
 works on windows 10/11
 run multiple connections just add new connection with different workername
 
+easy use
+open cmd run python proxyminer.py 
+
 how to use
-1st if you dont have  adiscord account create one as you will need ur discord username with hashtags or
+1st if you dont have a discord account create one as you will need ur discord username with hashtags or
 you can create aserver and create webhook and paste this into the discord section.
 you will get notification of blocks found,largest share and uptimeand if it disconnects it will tell you.
 then
